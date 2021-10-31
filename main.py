@@ -2,7 +2,6 @@ import requests
 import random
 import time
 
-# token = "MjAzMjM3NTAxODMyMjY1NzMw.YX0Ryg.Qay0pJ5whr5LhDA-s-pXKZV9Xi0"
 # channel_id = 903943388527742978
 
 token = input("What is your token? :")
